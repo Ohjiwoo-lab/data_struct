@@ -2,6 +2,7 @@
 
 #include<stdio.h>
 #include<stdlib.h>
+#include<string.h> //NULL 포인터를 사용하기 위해 필요
 
 typedef int element;
 
